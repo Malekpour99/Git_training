@@ -1,2 +1,3 @@
 This feature was added in the feature-2 branch
 bug fix for feature-2
+new patch for feature-2
