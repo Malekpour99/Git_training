@@ -1,3 +1,5 @@
 line 1
 line 2 (bug fix from feature-2)
 line 3 (edited)
+line 4
+line 5
